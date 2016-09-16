@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CeaserCipher</string>
+    <string name="plain_text">Enter Plain Text Here</string>
+</resources>
